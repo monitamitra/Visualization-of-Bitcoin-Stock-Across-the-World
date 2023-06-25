@@ -3,3 +3,4 @@
 -  Visualized data in Python 
 - used the yfinance API to extract Ethereum historical stock data
 - Used matplotlib, pandas, numpy
+- Simple moving average, exponential moving average
