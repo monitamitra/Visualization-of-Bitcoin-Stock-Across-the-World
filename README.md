@@ -5,4 +5,4 @@
 - Worked with **Matplotlib**, dabbled in **Seaborn**
 - Implemented the *Momentum financial trading strategy*
 - Utilized **Pandas** to perform financial *SMA and EMA calculations*
-- Used **Numpy** to find  buy/sell “signals” with *MACD* indicator
+- Used **Numpy** to find  buy and sell “signals” with *MACD* indicator
