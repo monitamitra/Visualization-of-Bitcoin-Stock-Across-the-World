@@ -1,8 +1,5 @@
-# Visualization-of-Ethereum-Stock
-- Developed a data visualization in **Python** to predict whether the user should buy, sell, or do nothing with their Ethereum stock today
-- **Implemented the yfinance API** to extract real time stock data 
-- Used **Jupyter Notebook**
-- Worked with **Matplotlib**, dabbled in **Seaborn**
-- Implemented the *Momentum financial trading strategy*
-- Utilized **Pandas** to perform financial *SMA and EMA calculations*
-- Used **Numpy** to find  buy and sell “signals” with *MACD* indicator
+
+**Data Extraction:** created Python-based Etherum stock visualization tool integrated with the yfinance API to utilize real-time stock data to make informed decisions about financial  investments
+**Development Environment:** Employed Jupyter Notebook for development.
+**Data Analysis:** Executed Momentum financial trading strategy, utilized Pandas for SMA and EMA calculations, Numpy for MACD indicator buy/sell signals.
+**Visualization Tools:** Leveraged Matplotlib and explored Seaborn for visualization.
